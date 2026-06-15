@@ -22,7 +22,7 @@ ZixChat is a modern real-time chatting platform built with the MERN Stack and Ty
 * Accept or reject incoming requests
 * Chat access only after mutual acceptance
 
-<!-- ### 💬 Real-Time Messaging
+### 💬 Real-Time Messaging
 
 * Instant one-to-one messaging
 * Real-time message delivery using Socket.IO
@@ -35,7 +35,7 @@ ZixChat is a modern real-time chatting platform built with the MERN Stack and Ty
 * Smart user engagement features
 * Enhanced chat experience
 
-### 🔒 Security
+<!-- ### 🔒 Security
 
 * Protected API routes
 * Secure authentication flow
