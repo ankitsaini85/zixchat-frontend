@@ -118,7 +118,7 @@ Start Backend:
 npm run dev
 ```
 
-<!-- ### Frontend Setup
+### Frontend Setup
 
 ```bash
 cd client
@@ -126,7 +126,7 @@ npm install
 npm run dev
 ```
 
-## 🔄 Application Flow
+<!-- ## 🔄 Application Flow
 
 1. User registers or logs in.
 2. System finds up to 10 nearby users.
