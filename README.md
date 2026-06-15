@@ -65,7 +65,7 @@ ZixChat is a modern real-time chatting platform built with the MERN Stack and Ty
 * MongoDB
 * Mongoose
 
-<!-- ## 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 ZixChat/
@@ -87,7 +87,7 @@ ZixChat/
 └── README.md
 ```
 
-## ⚙️ Installation
+<!-- ## ⚙️ Installation
 
 ### Clone Repository
 
