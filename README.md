@@ -126,7 +126,7 @@ npm install
 npm run dev
 ```
 
-<!-- ## 🔄 Application Flow
+## 🔄 Application Flow
 
 1. User registers or logs in.
 2. System finds up to 10 nearby users.
@@ -147,9 +147,6 @@ npm run dev
 * Push Notifications
 * End-to-End Encryption
 
-## 📸 Screenshots
-
-Add application screenshots here.
 
 ## 🤝 Contributing
 
@@ -163,4 +160,4 @@ This project is licensed under the MIT License.
 
 Developed with ❤️ using MERN Stack and TypeScript.
 
-**ZixChat — Connect, Chat, and Discover Nearby People Instantly.** -->
+**ZixChat — Connect, Chat, and Discover Nearby People Instantly.**
