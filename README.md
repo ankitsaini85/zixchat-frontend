@@ -10,7 +10,7 @@ ZixChat is a modern real-time chatting platform built with the MERN Stack and Ty
 * JWT-based authentication
 * Password encryption using bcrypt
 
-<!-- ### 📍 Nearby User Discovery
+### 📍 Nearby User Discovery
 
 * Automatically find up to 10 nearby users
 * Location-based user recommendations
@@ -22,7 +22,7 @@ ZixChat is a modern real-time chatting platform built with the MERN Stack and Ty
 * Accept or reject incoming requests
 * Chat access only after mutual acceptance
 
-### 💬 Real-Time Messaging
+<!-- ### 💬 Real-Time Messaging
 
 * Instant one-to-one messaging
 * Real-time message delivery using Socket.IO
