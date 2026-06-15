@@ -87,7 +87,7 @@ ZixChat/
 └── README.md
 ```
 
-<!-- ## ⚙️ Installation
+## ⚙️ Installation
 
 ### Clone Repository
 
@@ -118,7 +118,7 @@ Start Backend:
 npm run dev
 ```
 
-### Frontend Setup
+<!-- ### Frontend Setup
 
 ```bash
 cd client
