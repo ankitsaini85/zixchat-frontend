@@ -125,7 +125,18 @@ cd client
 npm install
 npm run dev
 ```
+### Screenshots
+### login
+![Login Page](./screenshots/login.png)
 
+### Signup
+![Signup Page](./screenshots/signup.png)
+
+### home 
+![Home Page](./screenshots/home.png)
+
+### Graph
+![Analytics Page](./screenshots/graph.png)
 ## 🔄 Application Flow
 
 1. User registers or logs in.
